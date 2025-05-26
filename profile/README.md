@@ -7,13 +7,13 @@
 - 👩‍💻 Guide students in scientific research in the field of information security
 - 🍿 Fun facts - Do it with all your heart
 
-## Open Resource
+## YangYang - Open Resource
 
 [<img align="left" alt="huggingface" width="25px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />][huggingface]
 
 </br>
 
-## Owner
+## Founder
 
 👨‍💻  Master of Science in Information Security - Le Thanh Phuc aka Pk
 
