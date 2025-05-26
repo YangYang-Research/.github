@@ -13,8 +13,15 @@
 
 </br>
 
+## Contact
+
+[<img align="left" alt="huggingface" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+
+</br>
+
 ## Founder
 
 👨‍💻  Master of Science in Information Security - Le Thanh Phuc aka Pk
 
 [huggingface]: https://huggingface.co/YangYang-Research
+[linkedin]: https://www.linkedin.com/in/ltp-noobpk/
